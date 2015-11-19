@@ -1,2 +1,2 @@
-# spring-boot-jbehavior
-Example project combining Spring Boot and JBehavior for Integration Testing
+# spring-boot-jbehave
+Example project combining Spring Boot and JBehave for Integration Testing
